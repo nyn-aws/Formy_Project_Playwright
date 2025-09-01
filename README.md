@@ -34,8 +34,6 @@ The framework covers the following pages and components:
 | **Radio Button**              | 3          | Radio button selection states         |
 | **Switch Window**             | 2          | New tab handling and alert management |
 
-**Total: 51 test cases**
-
 ## 🏗️ Project Structure
 
 ```
@@ -355,7 +353,5 @@ This project is part of an automation portfolio demonstration.
 
 ---
 
-**Last Updated**: December 2024  
-**Test Count**: 51 tests  
 **Coverage**: 100% of available pages  
 **Status**: All tests passing ✅
